@@ -1,0 +1,15 @@
+watch\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+watch\event_groups.o: C:\Users\cds20\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+watch\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+watch\event_groups.o: C:\Users\cds20\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+watch\event_groups.o: C:\Users\cds20\AppData\Local\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+watch\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+watch\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+watch\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+watch\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+watch\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+watch\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+watch\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+watch\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+watch\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+watch\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h
